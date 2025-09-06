@@ -1,8 +1,7 @@
 /*
-    LICENSED UNDER SRIJEET ROY . MIT LICENSE.
-    FLOW PROCESS OF THE PROJECT :
-    CREATE NEW ENTRY -> GET ALL ENTRIES -> DELETE ONE ENTRY.
-*/
+ * Copyright (c) 2025 Kaxxu . All Rights Reserved.
+ * This code is a personal project and is not affiliated with any employer.
+ */
 package com.example.journo.Controller;
 import com.example.journo.Model.Journo;
 import com.example.journo.Service.JournoService;
